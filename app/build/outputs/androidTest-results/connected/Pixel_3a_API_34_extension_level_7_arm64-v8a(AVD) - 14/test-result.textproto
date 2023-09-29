@@ -1,0 +1,224 @@
+# 2023-09-29T17:37:18.855Z:
+test_suite_meta_data {
+  scheduled_test_case_count: 4
+}
+test_status: PASSED
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testInternetSettings"
+    start_time {
+      seconds: 1696008995
+      nanos: 976000000
+    }
+    end_time {
+      seconds: 1696009005
+      nanos: 589000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/logcat-ru.netology.testing.uiautomator.ChangeTextTest-testInternetSettings.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testEmptyText"
+    start_time {
+      seconds: 1696009005
+      nanos: 616000000
+    }
+    end_time {
+      seconds: 1696009015
+      nanos: 372000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/logcat-ru.netology.testing.uiautomator.ChangeTextTest-testEmptyText.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testStartNewActivityAndVerifyText"
+    start_time {
+      seconds: 1696009016
+      nanos: 249000000
+    }
+    end_time {
+      seconds: 1696009026
+      nanos: 589000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/logcat-ru.netology.testing.uiautomator.ChangeTextTest-testStartNewActivityAndVerifyText.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/cpuinfo"
+    }
+  }
+}
+test_result {
+  test_case {
+    test_class: "ChangeTextTest"
+    test_package: "ru.netology.testing.uiautomator"
+    test_method: "testChangeText"
+    start_time {
+      seconds: 1696009027
+      nanos: 487000000
+    }
+    end_time {
+      seconds: 1696009037
+      nanos: 662000000
+    }
+  }
+  test_status: PASSED
+  output_artifact {
+    label {
+      label: "logcat"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/logcat-ru.netology.testing.uiautomator.ChangeTextTest-testChangeText.txt"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/device-info.pb"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.meminfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/meminfo"
+    }
+  }
+  output_artifact {
+    label {
+      label: "device-info.cpuinfo"
+      namespace: "android"
+    }
+    source_path {
+      path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/cpuinfo"
+    }
+  }
+}
+output_artifact {
+  label {
+    label: "test-results.log"
+    namespace: "com.google.testing.platform.runtime.android.driver.AndroidInstrumentationDriver"
+  }
+  source_path {
+    path: "/Users/tatianaeremenko/Desktop/UI Atom/app/build/outputs/androidTest-results/connected/Pixel_3a_API_34_extension_level_7_arm64-v8a(AVD) - 14/testlog/test-results.log"
+  }
+  type: TEST_DATA
+  mime_type: "text/plain"
+}

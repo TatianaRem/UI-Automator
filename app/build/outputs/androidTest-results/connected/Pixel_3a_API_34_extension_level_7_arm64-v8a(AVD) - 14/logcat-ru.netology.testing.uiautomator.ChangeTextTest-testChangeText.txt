@@ -1,0 +1,80 @@
+09-29 23:37:07.429  5141  5163 I TestRunner: started: testChangeText(ru.netology.testing.uiautomator.ChangeTextTest)
+09-29 23:37:07.904  1019  1019 D TaplTarget: Launcher.onNewIntent: Intent { act=android.intent.action.MAIN cat=[android.intent.category.HOME] flg=0x10000100 cmp=com.google.android.apps.nexuslauncher/.NexusLauncherActivity (has extras) }
+09-29 23:37:07.910   543  1514 W AppSearchIcing: icing-search-engine.cc:283: Error: 5, Message: Document (com.google.android.googlequicksearchbox$OneSearchZeroStateGoogleSuggestions/default, zp) not found.
+09-29 23:37:07.911  1019  1693 D OneSearchSuggestProvider: Established or reuse existing binder channel authority=com.google.android.googlequicksearchbox
+09-29 23:37:07.932   750  1670 D KeyguardService: setOccluded(false)
+09-29 23:37:07.934   750  1670 D KeyguardViewMediator: setOccluded(false)
+09-29 23:37:07.938   750   750 I vol.VolumeDialogImpl: mDialog.dismiss() reason: volume_controller from: com.android.systemui.volume.VolumeDialogImpl$7.onDismissRequested:3
+09-29 23:37:07.947   750   750 D KeyguardViewMediator: handleSetOccluded(false)
+09-29 23:37:07.953  1389  1712 I AiAiEcho: Predicting[0]:
+09-29 23:37:07.958  1019  1019 D SearchTargetUtil:  query= size=0
+09-29 23:37:07.959  1389  1712 I AiAiEcho: EchoTargets:
+09-29 23:37:07.959  1389  1712 I AiAiEcho: Filtered by AiAi flag check:
+09-29 23:37:07.959  1389  1712 I AiAiEcho: Ranked targets strategy: SORT, count: 0, ranking metadata:
+09-29 23:37:07.961  1389  1712 I AiAiEcho: #postPredictionTargets: Sending updates to UISurface home with targets# 0 (types=[])
+09-29 23:37:07.961   750   750 I vol.VolumeDialogImpl: mDialog.dismiss() reason: volume_controller from: com.android.systemui.volume.VolumeDialogImpl$7.onDismissRequested:3
+09-29 23:37:07.962   750   750 D vol.VolumeDialogImpl: dismissH: skipping dismiss because isAnimatingDismiss is true and showingStateInconsistent is false
+09-29 23:37:08.953  5141  5163 W InteractionController: runAndwaitForEvents timed out waiting for events
+09-29 23:37:08.995   320  2980 D android.hardware.audio@7.1-impl.ranchu: threadLoop: entering standby, frames: 1270368
+09-29 23:37:09.649   900   900 D SubscriptionUtil: getSelectableSubscriptionInfoList: [[SubscriptionInfo: id=1 iccId=89860318640220133897 simSlotIndex=0 portIndex=0 isEmbedded=false carrierId=1 displayName=T-Mobile carrierName=T-Mobile isOpportunistic=false groupUuid=null groupOwner= isGroupDisabled=false displayNameSource=CARRIER iconTint=-9033797 number=+15551234567 dataRoaming=0 mcc=310 mnc=260 ehplmns=[] hplmns=[] cardString=89860318640220133897 cardId=0 nativeAccessRules=null carrierConfigAccessRules=[cert: 92B5F8117FBD9BD5738FF168A4FA12CBE284BE834EDE1A7BB44DD8455BA15920 pkg: null access: 0, cert: 3D1A4BEF6EE7AF7D34D120E7B1AAC0DD245585DE6237CF100F68333AFACFF562 pkg: null access: 0, cert: 6892793FC413019D2DF609DFED7AF622D0F2D8FCF96EFA7E3FB87EEA34E10B93 pkg: null access: 0, cert: 7B68FD9D4E7610C9CB35FC0C6CC06EA04C6906E3DFA9F48F9A05460AF36BFFFC pkg: null access: 0] countryIso=us profileClass=-1 mType=LOCAL_SIM areUiccApplicationsEnabled=true usageSetting=DEFAULT]]
+09-29 23:37:09.650   900   900 D SubscriptionUtil: getSelectableSubscriptionInfoList: [[SubscriptionInfo: id=1 iccId=89860318640220133897 simSlotIndex=0 portIndex=0 isEmbedded=false carrierId=1 displayName=T-Mobile carrierName=T-Mobile isOpportunistic=false groupUuid=null groupOwner= isGroupDisabled=false displayNameSource=CARRIER iconTint=-9033797 number=+15551234567 dataRoaming=0 mcc=310 mnc=260 ehplmns=[] hplmns=[] cardString=89860318640220133897 cardId=0 nativeAccessRules=null carrierConfigAccessRules=[cert: 92B5F8117FBD9BD5738FF168A4FA12CBE284BE834EDE1A7BB44DD8455BA15920 pkg: null access: 0, cert: 3D1A4BEF6EE7AF7D34D120E7B1AAC0DD245585DE6237CF100F68333AFACFF562 pkg: null access: 0, cert: 6892793FC413019D2DF609DFED7AF622D0F2D8FCF96EFA7E3FB87EEA34E10B93 pkg: null access: 0, cert: 7B68FD9D4E7610C9CB35FC0C6CC06EA04C6906E3DFA9F48F9A05460AF36BFFFC pkg: null access: 0] countryIso=us profileClass=-1 mType=LOCAL_SIM areUiccApplicationsEnabled=true usageSetting=DEFAULT]]
+09-29 23:37:09.651   900   900 D SubscriptionUtil: getSelectableSubscriptionInfoList: [[SubscriptionInfo: id=1 iccId=89860318640220133897 simSlotIndex=0 portIndex=0 isEmbedded=false carrierId=1 displayName=T-Mobile carrierName=T-Mobile isOpportunistic=false groupUuid=null groupOwner= isGroupDisabled=false displayNameSource=CARRIER iconTint=-9033797 number=+15551234567 dataRoaming=0 mcc=310 mnc=260 ehplmns=[] hplmns=[] cardString=89860318640220133897 cardId=0 nativeAccessRules=null carrierConfigAccessRules=[cert: 92B5F8117FBD9BD5738FF168A4FA12CBE284BE834EDE1A7BB44DD8455BA15920 pkg: null access: 0, cert: 3D1A4BEF6EE7AF7D34D120E7B1AAC0DD245585DE6237CF100F68333AFACFF562 pkg: null access: 0, cert: 6892793FC413019D2DF609DFED7AF622D0F2D8FCF96EFA7E3FB87EEA34E10B93 pkg: null access: 0, cert: 7B68FD9D4E7610C9CB35FC0C6CC06EA04C6906E3DFA9F48F9A05460AF36BFFFC pkg: null access: 0] countryIso=us profileClass=-1 mType=LOCAL_SIM areUiccApplicationsEnabled=true usageSetting=DEFAULT]]
+09-29 23:37:09.660   750   750 D StatusBarIconController: ignoring old pipeline callbacks, because the new mobile icons are enabled
+09-29 23:37:14.526   750   863 D SplashScreenView: Build android.window.SplashScreenView{e54b00b V.E...... ......ID 0,0-0,0}
+09-29 23:37:14.526   750   863 D SplashScreenView: Icon: view: null drawable: null size: 0
+09-29 23:37:14.526   750   863 D SplashScreenView: Branding: view: android.view.View{b347ee8 G.ED..... ......I. 0,0-0,0 #10204ef android:id/splashscreen_branding_view} drawable: null size w: 0 h: 0
+09-29 23:37:14.550   362   362 I BpBinder: onLastStrongRef automatically unlinking death recipients:
+09-29 23:37:14.559   750   866 E OpenGLRenderer: Unable to match the desired swap behavior.
+09-29 23:37:14.603  1019  1611 D EGL_emulation: app_time_stats: avg=210.28ms min=11.53ms max=7265.77ms count=38
+09-29 23:37:14.616  5141  5141 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@8fd5cd1 in: PRE_ON_CREATE
+09-29 23:37:14.643  1490  1490 I GsaVoiceInteractionSrv: Handling ACTION_STOP_HOTWORD
+09-29 23:37:14.649  5141  5141 D AutofillManager: Fill dialog is enabled:false, hints=[password, passwordAuto, creditCardNumber, creditCardSecurityCode, creditCardExpirationDate]
+09-29 23:37:14.655  1490  2130 I HwDetectorWithState: (REDACTED) a: %d
+09-29 23:37:14.683  5141  5141 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@8fd5cd1 in: CREATED
+09-29 23:37:14.686  5141  5141 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@8fd5cd1 in: STARTED
+09-29 23:37:14.693  5141  5141 D LifecycleMonitor: Lifecycle status change: ru.netology.testing.uiautomator.MainActivity@8fd5cd1 in: RESUMED
+09-29 23:37:14.716  5141  5199 E OpenGLRenderer: Unable to match the desired swap behavior.
+09-29 23:37:14.716  5141  5163 W UiDevice: Skipping null root node for window: AccessibilityWindowInfo[title=Home, displayId=0, id=62, taskId=48, type=TYPE_APPLICATION, layer=0, region=SkRegion((0,0,1440,3120)), bounds=Rect(0, 0 - 1440, 3120), focused=true, active=true, pictureInPicture=false, transitionTime=216195, hasParent=false, isAnchored=false, hasChildren=false]
+09-29 23:37:14.723  5141  5141 D AutofillManager: notifyViewEnteredForFillDialog:1073741824
+09-29 23:37:14.738   750   866 D EGL_emulation: app_time_stats: avg=1532.90ms min=15.13ms max=10517.42ms count=7
+09-29 23:37:14.777   543   560 W ziparchive: Unable to open '/data/app/~~VMPM2wTSfV17OkyEYweacg==/ru.netology.testing.uiautomator-9qr-Oybz0JCxbJ9Ozj3MXA==/base.dm': No such file or directory
+09-29 23:37:14.832   543  2080 I ImeTracker: ru.netology.testing.uiautomator:4fb5327c: onRequestHide at ORIGIN_SERVER_HIDE_INPUT reason HIDE_UNSPECIFIED_WINDOW
+09-29 23:37:14.832   543  2080 I ImeTracker: ru.netology.testing.uiautomator:4fb5327c: onCancelled at PHASE_SERVER_SHOULD_HIDE
+09-29 23:37:14.839  1350  1350 I GoogleInputMethodService: GoogleInputMethodService.onFinishInput():3227
+09-29 23:37:14.842  1350  1350 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 0, unlocked = true
+09-29 23:37:14.843  1350  1350 I GoogleInputMethodService: GoogleInputMethodService.onStartInput():1877 onStartInput(EditorInfo{inputType=0x0(NULL) imeOptions=0x0 privateImeOptions=null actionName=UNSPECIFIED actionLabel=null actionId=0 initialSelStart=-1 initialSelEnd=-1 initialCapsMode=0x0 hintText=null label=null packageName=ru.netology.testing.uiautomator fieldId=0 fieldName=null extras=null}, false)
+09-29 23:37:14.843  1350  1350 I GoogleInputMethodService: GoogleInputMethodService.shouldHideHeaderOnInitialState():4008 ShouldHideHeaderOnInitialState = false
+09-29 23:37:14.844  1350  1350 I GoogleInputMethodService: GoogleInputMethodService.updateDeviceLockedStatus():2087 repeatCheckTimes = 2, unlocked = true
+09-29 23:37:14.846   543   560 I ActivityTaskManager: Displayed ru.netology.testing.uiautomator/.MainActivity for user 0: +266ms
+09-29 23:37:14.960  5141  5163 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80006cfc; boundsInParent: Rect(0, 0 - 1440, 3120); boundsInScreen: Rect(0, 0 - 1440, 3120); boundsInWindow: Rect(0, 0 - 1440, 3120); packageName: com.google.android.apps.nexuslauncher; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; stateDescription: null; contentDescription: null; tooltipText: null; containerTitle: null; viewIdResName: null; uniqueId: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; importantForAccessibility: true; visible: true; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]; isTextSelectable: false
+09-29 23:37:14.960  5141  5163 W ByMatcher: Skipping null child (0 of 1)
+09-29 23:37:14.961  5141  5163 W ByMatcher: Node returned null child: android.view.accessibility.AccessibilityNodeInfo@80006cfc; boundsInParent: Rect(0, 0 - 1440, 3120); boundsInScreen: Rect(0, 0 - 1440, 3120); boundsInWindow: Rect(0, 0 - 1440, 3120); packageName: com.google.android.apps.nexuslauncher; className: android.widget.FrameLayout; text: null; error: null; maxTextLength: -1; stateDescription: null; contentDescription: null; tooltipText: null; containerTitle: null; viewIdResName: null; uniqueId: null; checkable: false; checked: false; focusable: false; focused: false; selected: false; clickable: false; longClickable: false; contextClickable: false; enabled: true; password: false; scrollable: false; importantForAccessibility: true; visible: true; actions: [AccessibilityAction: ACTION_SELECT - null, AccessibilityAction: ACTION_CLEAR_SELECTION - null, AccessibilityAction: ACTION_ACCESSIBILITY_FOCUS - null, AccessibilityAction: ACTION_SHOW_ON_SCREEN - null]; isTextSelectable: false
+09-29 23:37:14.964  5141  5163 W ByMatcher: Skipping null child (0 of 1)
+09-29 23:37:15.003   851  1099 D BtGatt.ScanManager: uid 10122 isForeground true scanMode 1
+09-29 23:37:15.006   851  1099 D BtGatt.ScanManager: uid 10122 isForeground true scanMode -1
+09-29 23:37:15.006   851  1099 D BtGatt.ScanManager: uid 10122 isForeground true scanMode -1
+09-29 23:37:15.014  1019  1072 I ImeTracker: com.google.android.apps.nexuslauncher:7fbc3eca: onRequestHide at ORIGIN_CLIENT_HIDE_SOFT_INPUT reason HIDE_SOFT_INPUT
+09-29 23:37:15.015  1019  1072 I ImeTracker: com.google.android.apps.nexuslauncher:7fbc3eca: onFailed at PHASE_CLIENT_VIEW_SERVED
+09-29 23:37:15.016  1019  1693 D OneSearchSuggestProvider: Shut down the binder channel
+09-29 23:37:15.021  1019  3785 I IPCThreadState: oneway function results for code 2 on binder at 0xb4000078763d7ce0 will be dropped but finished with status UNKNOWN_TRANSACTION
+09-29 23:37:15.046   750   866 D EGL_emulation: app_time_stats: avg=989.35ms min=19.25ms max=9342.04ms count=10
+09-29 23:37:15.061   750   861 W WindowOnBackDispatcher: sendCancelIfRunning: isInProgress=falsecallback=android.view.ViewRootImpl$$ExternalSyntheticLambda17@6af6432
+09-29 23:37:15.062   543  1842 W InputManager-JNI: Input channel object '21feff3 Splash Screen ru.netology.testing.uiautomator (client)' was disposed without first being removed with the input manager!
+09-29 23:37:15.064  5141  5148 W ing.uiautomator: Cleared Reference was only reachable from finalizer (only reported once)
+09-29 23:37:15.071  5141  5148 I ing.uiautomator: Background young concurrent copying GC freed 62483(2994KB) AllocSpace objects, 0(0B) LOS objects, 39% free, 4338KB/7229KB, paused 43us,10us total 221.176ms
+09-29 23:37:15.096   750   758 I ndroid.systemui: Background young concurrent copying GC freed 144756(6984KB) AllocSpace objects, 0(0B) LOS objects, 12% free, 25MB/28MB, paused 175us,15us total 235.206ms
+09-29 23:37:16.057   750   866 D EGL_emulation: app_time_stats: avg=38.86ms min=9.69ms max=109.65ms count=26
+09-29 23:37:16.466  1350  1350 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():82 initialize...
+09-29 23:37:16.466  1350  1350 I ShortcutsDataManager: ShortcutsDataManager.onContentChanged():70 onContentChanged()
+09-29 23:37:16.468  1350  1350 I ContactsDataManager: ContactsDataManager.onContentChanged():156 onContentChanged()
+09-29 23:37:16.468  1350  1350 W AndroidSpellCheckerService: AndroidSpellCheckerService.initialize():94 initialize...done
+09-29 23:37:16.482  5141  5199 D EGL_emulation: app_time_stats: avg=171.71ms min=12.18ms max=1493.15ms count=10
+09-29 23:37:16.974  1019  1019 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_DOWN, actionButton=0, id[0]=0, x[0]=719.0, y[0]=965.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=226444, downTime=226443, deviceId=-1, source=0x1002, displayId=0, eventId=-148771938 }
+09-29 23:37:16.975  1019  1019 D TaplEvents: TIS / TouchInteractionService.onInputEvent: MotionEvent { action=ACTION_UP, actionButton=0, id[0]=0, x[0]=719.0, y[0]=965.0, toolType[0]=TOOL_TYPE_FINGER, buttonState=0, classification=NONE, metaState=0, flags=0x0, edgeFlags=0x0, pointerCount=1, historySize=0, eventTime=226444, downTime=226443, deviceId=-1, source=0x1002, displayId=0, eventId=-1060657463 }
+09-29 23:37:16.997   358   494 D audioserver: FGS Logger Transaction failed
+09-29 23:37:16.999   358   494 D audioserver: -129
+09-29 23:37:17.007   358   513 D AudioFlinger: mixer(0xb400007e0196b930) throttle end: throttle time(37)
+09-29 23:37:17.117   358   513 D audioserver: FGS Logger Transaction failed
+09-29 23:37:17.118   358   513 D audioserver: -129
+09-29 23:37:17.489  5141  5199 D EGL_emulation: app_time_stats: avg=30.88ms min=1.13ms max=509.11ms count=30
+09-29 23:37:17.595  5141  5163 I TestRunner: finished: testChangeText(ru.netology.testing.uiautomator.ChangeTextTest)
